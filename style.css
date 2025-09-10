@@ -3,6 +3,6 @@ html {
   scroll-behavior: smooth;
 }
 
-iframe {
+iframe[src*="spotify.com"] {
   border-radius: 25px;
 }
