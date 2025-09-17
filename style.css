@@ -6,3 +6,7 @@ html {
 iframe[src*="spotify.com"] {
   border-radius: 25px;
 }
+
+a:visited {
+  color: #3B38FF;
+}
