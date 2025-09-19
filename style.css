@@ -11,8 +11,8 @@ a:visited {
   color: #3B38FF;
 }
 
-::selection {
-    #3B38FF!important;
+::selection { 
+  background-color: #3B38FF!important;
 }
 
 </style>
